@@ -2,10 +2,9 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-description: ''
-motivation: ''
 labels: ''
-assignees: ''
+assignees: 'aanyabhandari3'
+
 
 ---
 
